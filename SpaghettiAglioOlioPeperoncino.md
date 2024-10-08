@@ -8,3 +8,4 @@ uno dei piaati preferiti
 *aglio
 *olio
 *peperoncino
+*prezzemolo
