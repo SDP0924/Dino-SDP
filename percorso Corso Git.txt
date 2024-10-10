@@ -1,0 +1,20 @@
+--- percorso corso Git
+https://www.google.com/search?client=firefox-b-d&q=corso+gratis+github#fpstate=ive&vld=cid:4f26264b,vid:N6DEWFvi40s,st:0
+
+------ parametri installazione
+GIT >
+user id : SDP
+mail : assistenza@sdpinformatica.com
+GITHUB > 
+user  : SDP0924
+password : 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
+mail : assistenza@sdpinformatica.com
+REPOSITORY
+name: Dino_SDP
+cartella lavoro: ESERCIZI_PROVA
+user id : SDP
+mail : assistenza@sdpinformatica.com
+
+------ COMANDI
+git config --list
+git config --help
